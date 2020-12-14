@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham Yadav</h1>
-<h3 align="center">I AM HUSTLER</h3>
+<h3 align="center">I DO THINGS ;)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham142&label=Profile%20views&color=0e75b6&style=flat" alt="subham142" /> </p>
 
