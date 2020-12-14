@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/subham142" target="blank"><img align="center" src="https://destatic.blob.core.windows.net/images/dev-logo.png" alt="subham142" height="30" width="40" /></a>
-<a href="https://twitter.com/56_subham" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="56_subham" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/subham-yadav-3493711a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/subham-yadav-3493711a5/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/subhamy142" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/subhamy142" height="30" width="40" /></a>
+<a href="https://dev.to/subham142" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="subham142" height="30" width="40" /></a>
+<a href="https://twitter.com/56_subham" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" alt="56_subham" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/subham-yadav-3493711a5/" target="blank"><img align="center" src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" alt="https://www.linkedin.com/in/subham-yadav-3493711a5/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/subhamy142" target="blank"><img align="center" src="https://www.codechef.com/misc/fb-image-icon.png" alt="https://www.codechef.com/users/subhamy142" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
