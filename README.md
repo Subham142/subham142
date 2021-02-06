@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham142&label=Profile%20views&color=0e75b6&style=flat" alt="subham142" /> </p>
 
-<img align="right" alt="Coding" width="400" style="border: 2px solid red"; src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif">
+<img align="right" alt="Coding" width="400" style="border: 2px solid red"; src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif"/>
 
 - 🌱 I’m currently trying to contribute in **Open Source**
 
