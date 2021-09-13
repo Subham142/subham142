@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamyadav&label=Profile%20views&color=0e75b6&style=flat" alt="subham142" /> </p>
 <img src="https://camo.githubusercontent.com/d3e809f523f13c60007f918a892a63e69ba4feeca642c0140c8847ed832b3b34/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78543949677a6f4b6e77464e6d49535238492f67697068792e676966" align="right" alt="Coding" width="400" style="border: 2px solid red"; />
 
-- 🌱 I’m currently trying to contribute in **Problem Solving Skills**
+- 🌱 I’m currently trying to improve my **Problem Solving Skills**
 
 - 👨‍💻 All of my projects are available at [https://subham142.github.io/My-Resume/](https://subham142.github.io/My-Resume/)
 
