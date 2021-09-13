@@ -99,8 +99,11 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subham142&show_icons=true&locale=en&layout=compact" alt="subham142" /></p>
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=Subham142&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Subham142&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Subham142&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subham142&show_icons=true&locale=en" alt="subham142" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subham142&" alt="subham142" /></p>
+</p>
