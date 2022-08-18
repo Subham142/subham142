@@ -18,7 +18,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/subham-yadav-3493711a5/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="https://www.linkedin.com/in/" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/subhamy142" target="blank"><img align="center" src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="https://www.codechef.com/users/s" height="40" width="40" /></a>
+<a href="https://leetcode.com/subhamy142/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="https://www.codechef.com/users/s" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/subhamy142" target="blank"><img align="center" src="https://img.icons8.com/color/452/GeeksforGeeks.png" alt="https://auth.geeksforgeeks.org/user" height="40" width="40" /></a>
 
 </p>
