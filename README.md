@@ -58,7 +58,7 @@
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FiimoRhR_phaser-phaser-3-logo-hd-png-download%2F&psig=AOvVaw1TdfXP5t6m04boCYFXOS9M&ust=1668276856560000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCi8tzdpvsCFQAAAAAdAAAAABAE">
+        <img src="https://png.pngitem.com/pimgs/s/184-1843034_phaser-phaser-3-logo-hd-png-download.png">
     </td>
 </tr>
 <tr>
